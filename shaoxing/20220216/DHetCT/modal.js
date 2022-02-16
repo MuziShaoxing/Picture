@@ -36,7 +36,7 @@
 
     mModal.defaultOptions = {
       title: "公告", // 标题，默认：提示
-      width: "25%", // 弹出框宽度，默认 25%
+      width: "50%", // 弹出框宽度，默认 25%
       top: "15vh", // 距离可视区域顶部距离 CSS中 margin-top 值
       content: "正文内容什么", // 正文，默认：正文内容
       cancelText: "取 消", // 取消按钮文本
